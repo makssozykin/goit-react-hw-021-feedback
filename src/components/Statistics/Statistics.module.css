@@ -1,0 +1,16 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+  width: 260px;
+  margin-top: 8px;
+  padding: 0;
+}
+
+.statistics p {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 500;
+  color: #333;
+}
